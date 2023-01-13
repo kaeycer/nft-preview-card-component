@@ -47,7 +47,7 @@ body {
 }
 .avatar-p {
   display: grid;
-  grid-template-columns: 0.3fr 0.49fr 1fr;
+  grid-template-columns: 0.3fr 0.49fr 0.8fr;
   padding-bottom: 15px;
   font-size: 14px;
 }
